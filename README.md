@@ -1,3 +1,5 @@
+``` python person_remover.py -i [VIDEO PATH] ```
+
 # Example
 
 Before             |  After
